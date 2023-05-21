@@ -1,0 +1,28 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.1.0",
+	"FriendlyName": "ImageCache",
+	"Description": "Cache net images to local disk.",
+	"Category": "Other",
+	"CreatedBy": "Qibo Pang",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5b7c22cb59734b4fb3bbc3d737712b74",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": false,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "ImageCache",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"PlatformAllowList": [
+				"Win64",
+				"IOS",
+				"Android"
+			]
+		}
+	]
+}

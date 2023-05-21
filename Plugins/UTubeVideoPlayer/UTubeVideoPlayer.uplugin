@@ -1,0 +1,30 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "UTubeVideoPlayer",
+	"Description": "Play Youtube video inside unreal engine media player",
+	"Category": "Other",
+	"CreatedBy": "Kelvin Rosa",
+	"CreatedByURL": "https://lightshaftgames.github.io/site/",
+	"DocsURL": "",
+	"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/06d7b19ec1e14e89a2c11902eebc8a67",
+	"SupportURL": "",
+	"EngineVersion": "5.0.0",
+	"CanContainContent": true,
+	"Installed": true,
+	"Modules": [
+		{
+			"Name": "UTubeVideoPlayer",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen",
+			"PlatformAllowList": [
+				"Win64",
+				"Mac",
+				"Linux",
+				"Android",
+				"IOS"
+			]
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "5.0",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ZEZ",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"ALSV4_CPP",
+				"UMG"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "RigLogic",
+			"Enabled": true
+		},
+		{
+			"Name": "EnhancedInput",
+			"Enabled": true
+		},
+		{
+			"Name": "DatasmithImporter",
+			"Enabled": true
+		},
+		{
+			"Name": "glTFRuntime",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/d2ed3709933d4608a3a8dd746cbc045d"
+		},
+		{
+			"Name": "RuntimeFilesDownloader",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e7e6df6d6e9c46f0ae35163eab67ff9a"
+		},
+		{
+			"Name": "UTubeVideoPlayer",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/06d7b19ec1e14e89a2c11902eebc8a67"
+		},
+		{
+			"Name": "Fetch",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/e8098c9d0b414ad4924296c8a4495668"
+		},
+		{
+			"Name": "JsonBlueprintUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "Text3D",
+			"Enabled": true
+		},
+		{
+			"Name": "Water",
+			"Enabled": true
+		},
+		{
+			"Name": "WaterExtras",
+			"Enabled": true
+		},
+		{
+			"Name": "ImageCache",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/5b7c22cb59734b4fb3bbc3d737712b74"
+		},
+		{
+			"Name": "WebBrowserWidget",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatures",
+			"Enabled": true
+		},
+		{
+			"Name": "awsSDK",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/361e3eed7f2d4862a0cb7c8f042e613b"
+		},
+		{
+			"Name": "RpmAvatarCreator",
+			"Enabled": true
+		},
+		{
+			"Name": "ReadyPlayerMe",
+			"Enabled": true
+		},
+		{
+			"Name": "PixelStreaming",
+			"Enabled": true
+		}
+	]
+}
