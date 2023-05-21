@@ -2,6 +2,7 @@
 
 
 #include "ZEZInteractableBase.h"
+#include "iostream"
 
 #include "EnhancedInputComponent.h"
 #include "EnhancedInputSubsystems.h"
